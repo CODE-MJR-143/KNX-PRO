@@ -1,2 +1,2 @@
-from KNX import AKASH
-AKASH.MAIN()
+from KNX import Main
+Main.Menu()
